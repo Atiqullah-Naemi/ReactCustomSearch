@@ -1,2 +1,0 @@
-# ReactCustomSearch
-Created with CodeSandbox
